@@ -8,7 +8,7 @@
 * [养鸡场最新域名跳转中](https://yjcdh.com/)
 * [百度网盘-我的文件](https://pan.baidu.com/wap/home#list/path=%2Fapps%2FMiFileExplorer&page=1)
 * [WPS-PRO](http://mo.wps.cn/pc-app/office-pro.html)
-* [Android | 异星软件空间](http://yx.bsh.me/os/android)
+* [异星软件空间](http://yx.bsh.me/os/android)
 * [文档服务 下载页](http://www.blpack.com/)
 * [Infinity New Tab](https://m.infinitynewtab.com?uid=be835b3671ccf1231a780b1b1865c83d&secret=26817ff82c12a8c9f715989d594cca03)
 * [百度一下-简单](https://m.baidu.com?tn=simple)
